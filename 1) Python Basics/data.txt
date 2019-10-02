@@ -1,0 +1,7 @@
+,country,capital,area,population
+0,Turkey,Ankara,5.5,80
+1,Russia,Moscow,17.1,150
+2,France,Paris,4.1,80
+3,China,Beijing,9.2,1500
+4,South Africa,Pretoria,1.5,50
+5,Spain,Madrid,4.0,70
